@@ -48,3 +48,5 @@ Possessing a track record of successfully leading projects, adept at tackling ch
 <br /><br />
 
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manimozaffar&show_icons=true&theme=dark&count_private=true"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manimozaffar&theme=dark&hide_border=false"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=manimozaffar&theme=radical&no-frame=false&no-bg=true&margin-w=4"/></p>
