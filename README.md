@@ -16,9 +16,9 @@
 
 <h2> About Me:</h2>
 <br>
-An experienced web developer with expertise in web security, bot development, and backend development, specialized in creating high-performance web applications and implementing  measures to prevent bot traffic. 
+An experienced web developer with expertise in bot development, and backend development, specialized in creating high-performance web applications. 
 <br>
-Possessing a track record of successfully leading projects, adept at tackling challenging assignments, and possessing a keen interest in psychology.
+Possessing a track record of successfully leading projects, adept at tackling challenging assignments.
 <br>
 
 <br /><br />
