@@ -16,7 +16,7 @@
 
 <h2> About Me:</h2>
 <br>
-An experienced web developer with expertise in bot development, and backend development, specialized in creating high-performance web applications. Possessing a track record of successfully leading projects, adept at tackling challenging assignments.
+An experienced web developer with expertise in crawling, and backend development, specialized in creating high-performance web applications. Possessing a track record of successfully leading projects, adept at tackling challenging assignments.
 <br>
 
 <br /><br />
