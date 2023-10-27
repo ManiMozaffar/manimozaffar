@@ -54,8 +54,8 @@ Projects related to **Crawling & Data Fetching**:
 
 
 [Design Pattern 101]: https://github.com/ManiMozaffar/design-101
-[Awesome Resume]: https://github.com/ManiMozaffar/testing-101
-[Awesome Interviews]: https://github.com/ManiMozaffar/testing-101
+[Awesome Resume]: https://github.com/ManiMozaffar/awesome-resumes
+[Awesome Interviews]: https://github.com/ManiMozaffar/awesome-interview
 [Testing 101]: https://github.com/ManiMozaffar/testing-101
 [Fast Response]: https://github.com/ManiMozaffar/FastResponse
 [Student App]: https://github.com/ManiMozaffar/fast-student
