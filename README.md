@@ -50,8 +50,8 @@ Projects related to **Crawling & Data Fetching**:
 |  🎁 Project   | 📜 Description  |
 |---|---|
 | **[Fast Crawler]** | WIP - Modern high perfomance async crawler framework & SDK with Pydantic-friendly schema |
+| **[CfCrawler]** | In-Place HTTPX client to scrape cloudflare with user agent rotation |
 | **[Linkedin Crawler]** | Linkedin Crawling Software to find matched and suitable advertisement |
-| **[Aio Cloud Scrape]** | WIP - In-Place HTTPX client to scrape cloudflare and solve captcha |
 
 
 [Design Pattern 101]: https://github.com/ManiMozaffar/design-101
@@ -63,7 +63,7 @@ Projects related to **Crawling & Data Fetching**:
 [Fast Auth]: https://github.com/ManiMozaffar/fast-auth
 [Fast Crawler]: https://github.com/fast-crawler
 [Linkedin Crawler]: https://github.com/ManiMozaffar/linkedIn-scraper
-[Aio Cloud Scrape]: https://github.com/ManiMozaffar/aiocloudscraper
+[CfCrawler]: https://github.com/ManiMozaffar/cfcrawler
 [Awesome Python Resources]: https://github.com/DjangoEx/awesome-python-resources
 [PydKit]: https://github.com/ManiMozaffar/PydKit
 
