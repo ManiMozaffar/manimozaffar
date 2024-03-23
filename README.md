@@ -39,6 +39,7 @@ Projects related to **Backend Development**:
 
 | 🎁 Project   | 📜 Description  |
 |---|---|
+| **[Fast Exchange]** | A type stated library, to handle crypto and currency exchange Right now very few currencies and cryptos are supported, but you can help with that with contribution. |
 | **[PydKit]** | WIP - Extended kit and tools for pydantic, to enjoy pydantic even more!|
 | **[Fast Response]** | WIP -  FastAPI utilty library to parse, find and append exceptions to OpenAPI schema |
 | **[Student App]** | Student App Challenge Proto-type implemented with FastAPI |
@@ -66,6 +67,7 @@ Projects related to **Crawling & Data Fetching**:
 [CfCrawler]: https://github.com/ManiMozaffar/cfcrawler
 [Awesome Python Resources]: https://github.com/DjangoEx/awesome-python-resources
 [PydKit]: https://github.com/ManiMozaffar/PydKit
+[Fast Exchange]: https://github.com/ManiMozaffar/fastexchange
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manimozaffar&theme=dark&hide_border=false"/></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=manimozaffar&theme=radical&no-frame=false&no-bg=true&margin-w=4"/></p>
