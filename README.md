@@ -39,6 +39,7 @@ Projects related to **Backend Development**:
 
 | 🎁 Project   | 📜 Description  |
 |---|---|
+| **[Aio Clock]** | An asyncio-based scheduling framework designed for execution of periodic task with integrated support for dependency injection, enabling efficient and flexiable task management. |
 | **[Fast Exchange]** | A type stated library, to handle crypto and currency exchange Right now very few currencies and cryptos are supported, but you can help with that with contribution. |
 | **[PydKit]** | WIP - Extended kit and tools for pydantic, to enjoy pydantic even more!|
 | **[Fast Response]** | WIP -  FastAPI utilty library to parse, find and append exceptions to OpenAPI schema |
@@ -55,6 +56,7 @@ Projects related to **Crawling & Data Fetching**:
 | **[Linkedin Crawler]** | Linkedin Crawling Software to find matched and suitable advertisement |
 
 
+[Aio Clock]: https://github.com/ManiMozaffar/aioclock
 [Design Pattern 101]: https://github.com/ManiMozaffar/design-101
 [Awesome Resume]: https://github.com/ManiMozaffar/awesome-resumes
 [Awesome Interviews]: https://github.com/ManiMozaffar/awesome-interview
