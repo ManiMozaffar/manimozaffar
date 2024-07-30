@@ -28,8 +28,9 @@ Projects related to **educative content and courses**:
 
 | 🎁 Project   | 📜 Description  |
 |---|---|
-| **[Design Pattern 101]** | WIP - Design Pattern Course (Gonna be much more than G4F patterns) |
 | **[Awesome Resume]** | Practical tips, guidelines, and examples for an Awesome Resume  |
+| **[SQLAlchemy Crash Course]** | Code reference for SQLAlchemy youtube crash course  |
+| **[Design Pattern 101]** | Design Pattern Course (Gonna be much more than G4F patterns) |
 | **[Awesome Interviews]** | WIP - Master technical and behavioral interviews |
 | **[Testing 101]** | WIP - Testing Course |
 | **[Awesome Python Resources]** | Awesome resources to learn programming with Python Language! |
@@ -59,6 +60,7 @@ Projects related to **Crawling & Data Fetching**:
 [Aio Clock]: https://github.com/ManiMozaffar/aioclock
 [Design Pattern 101]: https://github.com/ManiMozaffar/design-101
 [Awesome Resume]: https://github.com/ManiMozaffar/awesome-resumes
+[SQLAlchemy Crash Course]: https://github.com/ManiMozaffar/sqlalchemy-crash-course
 [Awesome Interviews]: https://github.com/ManiMozaffar/awesome-interview
 [Testing 101]: https://github.com/ManiMozaffar/testing-101
 [Fast Response]: https://github.com/ManiMozaffar/FastResponse
