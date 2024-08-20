@@ -14,15 +14,8 @@
 </div>
 <br />
 
-<h2> About Me:</h2>
-<br>
-Self-motivated 5 years experienced software engineer with a strong interest in contributing open source projects. Eager to explore in unknown fields, and develop useful products, and frameworks. Believer of "Programs must be written for people to read, and only incidentally for machines to execute|, and "Eliminate, Simplify, Automate And Delegate"<br>
 
 ## Open Source Projects
-
-I am working or I have contributed on some Open Source Project, most are Work In Progress, but anyway it was impossible to pin them all haha
-
-
 
 Projects related to **educative content and courses**:
 
