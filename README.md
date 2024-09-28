@@ -27,7 +27,6 @@ Projects related to **Backend Development**:
 | 🎁 Project   | 📜 Description  |
 |---|---|
 | **[Aio Clock]** | An asyncio-based scheduling framework designed for execution of periodic task with integrated support for dependency injection, enabling efficient and flexiable task management. |
-| **[Fast Crawler]** | WIP - Modern high perfomance async crawler framework & SDK with Pydantic-friendly schema |
 | **[CfCrawler]** | In-Place HTTPX client to scrape cloudflare with user agent rotation |
 | **[Linkedin Crawler]** | Linkedin Crawling Software to find matched and suitable advertisement |
 | **[Fast Exchange]** | A type stated library, to handle crypto and currency exchange Right now very few currencies and cryptos are supported, but you can help with that with contribution. |
@@ -43,7 +42,6 @@ Projects related to **Backend Development**:
 [Testing 101]: https://github.com/ManiMozaffar/testing-101
 [Student App]: https://github.com/ManiMozaffar/fast-student
 [Fast Auth]: https://github.com/ManiMozaffar/fast-auth
-[Fast Crawler]: https://github.com/fast-crawler
 [Linkedin Crawler]: https://github.com/ManiMozaffar/linkedIn-scraper
 [CfCrawler]: https://github.com/ManiMozaffar/cfcrawler
 [Fast Exchange]: https://github.com/ManiMozaffar/fastexchange
