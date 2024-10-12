@@ -26,6 +26,7 @@ Projects related to **Backend Development**:
 
 | 🎁 Project   | 📜 Description  |
 |---|---|
+| **[Naked SQLAlchemy]** | A simple and lightweight object mapper around SQLAlchemy core, simple alternative to SQLAlchemy ORM. |
 | **[Aio Clock]** | An asyncio-based scheduling framework designed for execution of periodic task with integrated support for dependency injection, enabling efficient and flexiable task management. |
 | **[CfCrawler]** | In-Place HTTPX client to scrape cloudflare with user agent rotation |
 | **[Linkedin Crawler]** | Linkedin Crawling Software to find matched and suitable advertisement |
@@ -45,3 +46,5 @@ Projects related to **Backend Development**:
 [Linkedin Crawler]: https://github.com/ManiMozaffar/linkedIn-scraper
 [CfCrawler]: https://github.com/ManiMozaffar/cfcrawler
 [Fast Exchange]: https://github.com/ManiMozaffar/fastexchange
+[Naked SQLAlchemy]: https://github.com/ManiMozaffar/naked-sqla
+جج
